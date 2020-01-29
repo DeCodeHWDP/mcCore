@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mcCore:jar">
+    <output-path>D:/all/localhost/plugins</output-path>
+    <root id="archive" name="mcCore.jar">
+      <element id="module-output" name="mcCore" />
+    </root>
+  </artifact>
+</component>
